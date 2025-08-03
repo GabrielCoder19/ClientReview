@@ -7,6 +7,8 @@ se determinada avaliação foi positiva ou negativa.
 Após a classificação gerada pela API, gerei um arquivo JSON com a resposta obtida.
 
 Em seguida com auxilio do CHATGPT, Criei uma tabela para separar por nome de colaborador e setor o qual está inserido para facilitar a visualização 
+
+codigo aplicação Azure Utilizada https://sentimentalanalisys.cognitiveservices.azure.com/
 # Análise de Sentimentos por Nome
 
 ## 🧑‍💼 Fernanda
